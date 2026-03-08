@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>John Doe</name>
+    <name>Huai Jin</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://nailonglover.github.io/</id>
   <link href="https://nailonglover.github.io/" rel="alternate"/>
   <link href="https://nailonglover.github.io/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, John Doe</rights>
+  <rights>All rights reserved 2026, Huai Jin</rights>
   <title>Hexo</title>
   <updated>2026-03-07T08:01:23.769Z</updated>
   <entry>
     <author>
-      <name>John Doe</name>
+      <name>Huai Jin</name>
     </author>
     <id>https://nailonglover.github.io/2026/03/07/%E5%85%88%E5%9C%B0%E4%B9%8B%E7%9F%A5/</id>
     <link href="https://nailonglover.github.io/2026/03/07/%E5%85%88%E5%9C%B0%E4%B9%8B%E7%9F%A5/"/>
@@ -25,7 +25,7 @@
   </entry>
   <entry>
     <author>
-      <name>John Doe</name>
+      <name>Huai Jin</name>
     </author>
     <id>https://nailonglover.github.io/2026/03/07/hello-world/</id>
     <link href="https://nailonglover.github.io/2026/03/07/hello-world/"/>
