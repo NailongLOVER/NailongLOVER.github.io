@@ -1,39 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://nailonglover.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://nailonglover.github.io/"/>
+  <updated>2026-03-07T08:01:23.769Z</updated>
+  <id>https://nailonglover.github.io/</id>
+  
   <author>
     <name>Huai Jin</name>
+    
   </author>
+  
   <generator uri="https://hexo.io/">Hexo</generator>
-  <id>https://nailonglover.github.io/</id>
-  <link href="https://nailonglover.github.io/" rel="alternate"/>
-  <link href="https://nailonglover.github.io/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, Huai Jin</rights>
-  <title>Hexo</title>
-  <updated>2026-03-07T08:01:23.769Z</updated>
+  
   <entry>
-    <author>
-      <name>Huai Jin</name>
-    </author>
-    <id>https://nailonglover.github.io/2026/03/07/%E5%85%88%E5%9C%B0%E4%B9%8B%E7%9F%A5/</id>
-    <link href="https://nailonglover.github.io/2026/03/07/%E5%85%88%E5%9C%B0%E4%B9%8B%E7%9F%A5/"/>
-    <published>2026-03-07T07:52:24.000Z</published>
-    <summary>
-      <![CDATA[<h1 id="创作于2021-2022，世界之为世界的本体论涌现之证"><a href="#创作于2021-2022，世界之为世界的本体论涌现之证" class="headerlink" title="创作于2021-2022，世界之为世界的本体论涌现之证"></a>创作于20]]>
-    </summary>
     <title>先地之知</title>
+    <link href="https://nailonglover.github.io/2026/03/07/%E5%85%88%E5%9C%B0%E4%B9%8B%E7%9F%A5/"/>
+    <id>https://nailonglover.github.io/2026/03/07/%E5%85%88%E5%9C%B0%E4%B9%8B%E7%9F%A5/</id>
+    <published>2026-03-07T07:52:24.000Z</published>
     <updated>2026-03-07T08:01:23.769Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;创作于2021-2022，世界之为世界的本体论涌现之证&quot;&gt;&lt;a href=&quot;#创作于2021-2022，世界之为世界的本体论涌现之证&quot; class=&quot;headerlink&quot; title=&quot;创作于2021-2022，世界之为世界的本体论涌现之证&quot;&gt;&lt;/a&gt;创作于20</summary>
+      
+    
+    
+    
+    
   </entry>
+  
   <entry>
-    <author>
-      <name>Huai Jin</name>
-    </author>
-    <id>https://nailonglover.github.io/2026/03/07/hello-world/</id>
-    <link href="https://nailonglover.github.io/2026/03/07/hello-world/"/>
-    <published>2026-03-07T07:43:08.609Z</published>
-    <summary>
-      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
-    </summary>
     <title>Hello World</title>
+    <link href="https://nailonglover.github.io/2026/03/07/hello-world/"/>
+    <id>https://nailonglover.github.io/2026/03/07/hello-world/</id>
+    <published>2026-03-07T07:43:08.609Z</published>
     <updated>2026-03-07T07:43:08.609Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
   </entry>
+  
 </feed>
