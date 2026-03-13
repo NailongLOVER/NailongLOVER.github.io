@@ -1,0 +1,28 @@
+/* ========================================
+   自定义背景色 - 浅蓝主题
+   ======================================== */
+
+/* 浅色模式 */
+:root {
+  /* 背景色 */
+  --global-bg: #C2E1F5;        /* 网站整体背景（浅蓝） */
+  --card-bg: #8E9BCD;          /* 卡片背景（紫蓝，稍深） */
+  --sidebar-bg: #C2E1F5;       /* 侧边栏背景 */
+  --sidebar-menu-bg: #D6EBF7;  /* 侧边栏菜单背景（更浅） */
+  
+  /* 阴影调整 */
+  --card-box-shadow: 0 3px 8px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* 深色模式适配 */
+[data-theme='dark'] {
+  --global-bg: #5A6480;        /* 深色版背景 */
+  --card-bg: #4A5468;          /* 深色卡片 */
+  --sidebar-bg: #5A6480;
+  --sidebar-menu-bg: #4A5468;
+}
+
+/* 确保body背景生效 */
+#body-wrap {
+  background: var(--global-bg);
+}
